@@ -1,0 +1,16 @@
+#slidetabsmenu a { display: block; width: 50px; }
+#submenu select { height: 10px; }
+#scroller_container { width: 250px; }
+
+.bsub { height: 3px; width: 100%; }
+.video_box { margin: 10px 10px 0 10px; }
+.user_box { width: 105px; margin: 10px 10px 20px 10px; }
+.album_box {  margin: 10px 10px 0 10px; }
+
+.category_box { width: 370px; }
+.video_c_box { margin: 10px 8px 0 5px; width: 155px; }
+.user-box { margin: 10px 10px 20px 15px; }
+.video_box_small {margin: 10px 5px 20px 10px;}
+.photo_box {margin: 10px 3px 20px 3px;}
+.span-755 { width: 745px; }
+.video_box_related {margin: 10px 0 0 10px;}

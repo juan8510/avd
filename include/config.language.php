@@ -1,0 +1,31 @@
+<?php
+defined('_VALID') or die('Restricted Access!');
+$languages = array(
+	'en_US' => array('name' => 'English', 'flag' => 'en.gif'),
+	'fr_FR' => array('name' => 'Français', 'flag' => 'fr.gif'),
+	'de_DE' => array('name' => 'Deutsch', 'flag' => 'de.gif'),
+	'nl_NL' => array('name' => 'Dutch', 'flag' => 'nl.gif'),
+	'es_ES' => array('name' => 'Español', 'flag' => 'es.gif'),
+	'it_IT' => array('name' => 'Italiano', 'flag' => 'it.gif'),
+	'pt_PT' => array('name' => 'Português', 'flag' => 'pt.gif'),
+	'pt_BR' => array('name' => 'Português', 'flag' => 'br.gif'),
+	'ru_RU' => array('name' => 'русский', 'flag' => 'ru.gif'),
+	'sa_SA' => array('name' => 'العربية', 'flag' => 'sa.gif'),
+	'he_IL' => array('name' => 'עִבְרִית', 'flag' => 'il.gif'),
+	'jp_JP' => array('name' => '日本語', 'flag' => 'jp.gif'),
+	'cn_CS' => array('name' => '中文简体', 'flag' => 'cn.gif'),
+    'cn_CT' => array('name' => '中文 繁體', 'flag' => 'cn.gif'),
+	'tr_TR' => array('name' => 'Türkçe', 'flag' => 'tr.gif'),
+	'dk_DK' => array('name' => 'Dansk', 'flag' => 'dk.gif'),
+	'no_NO' => array('name' => 'Norsk', 'flag' => 'no.gif'),
+	'cz_CZ' => array('name' => 'Český', 'flag' => 'cz.gif'),
+	'bn_BD' => array('name' => 'বাংলা', 'flag' => 'bd.gif'),
+	'ro_RO' => array('name' => 'Română', 'flag' => 'ro.gif'),
+	'pl_PL' => array('name' => 'Polski', 'flag' => 'pl.gif'),
+	'hu_HU' => array('name' => 'Magyar', 'flag' => 'hu.gif'),
+	'ba_BA' => array('name' => 'Bosanski', 'flag' => 'ba.gif'),
+	'hr_HR' => array('name' => 'Hrvatski', 'flag' => 'hr.gif'),
+	'rs_RS' => array('name' => 'Srpski', 'flag' => 'rs.gif'),
+	'si_SI' => array('name' => 'Slovenski', 'flag' => 'si.gif'),
+	);
+?>
